@@ -10,6 +10,7 @@
     目录结构主要借助 Flutter GetX Generator - 猫哥 插件生成。插件地址：https://marketplace.visualstudio.com/items?itemName=ducafecat.getx-template
 
 # commit 规范
+
 ```
 # 提交类型:
 # feat	添加新特性（feature）
