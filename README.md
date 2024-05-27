@@ -9,3 +9,24 @@
 ## 目录结构
     目录结构主要借助 Flutter GetX Generator - 猫哥 插件生成。插件地址：https://marketplace.visualstudio.com/items?itemName=ducafecat.getx-template
 
+# commit 规范
+```
+# 提交类型:
+# feat	添加新特性（feature）
+# fix	修复 bug
+# docs	仅仅修改了文档，比如 README, CHANGELOG, CONTRIBUTE等等
+# style	仅仅修改了空格、格式缩进、逗号等等，不改变代码逻辑
+# refactor	代码重构，没有加新功能或者修复 bug
+# perf	优化相关，比如提升性能、体验
+# test	测试用例，包括单元测试、集成测试等
+# chore	改变构建流程、或者增加依赖库、工具等
+# revert	回滚到上一个版本
+#
+# Scope: 影响范围 (如模块或文件名)
+#
+# Subject: 简要描述(50字符以内)
+#
+# Body: 详细描述(可选，72字符以内一行)
+#
+# Footer: 关联的 Issue ID (如: #123) (可选)
+```
