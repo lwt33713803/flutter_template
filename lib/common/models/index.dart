@@ -1,3 +1,3 @@
 library models;
 
-// export './xxxx.dart';
+export './RiveModel.dart';
